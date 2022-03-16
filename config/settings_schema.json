@@ -1023,21 +1023,6 @@
     ]
   },
   {
-    "name": "Checkbox_Test",
-    "settings": [
-      {
-        "type": "header",
-        "content": "t:settings_schema.global.settings.header__border.content"
-      },
-      {
-        "type": "checkbox",
-        "id": "show_announcement",
-        "label": "Show announcement",
-        "default": true
-      }
-    ]
-  },
-  {
     "name": "t:settings_schema.social-media.name",
     "settings": [
       {
