@@ -8,6 +8,21 @@
     "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
+    "name": "t:settings_schema.checkbox.name",
+    "settings": [
+      {
+        "type": "header",
+        "content": "t:settings_schema.checkbox.settings.header__1.content"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_announcement",
+        "label": "Show announcement",
+        "default": true
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.colors.name",
     "settings": [
       {
